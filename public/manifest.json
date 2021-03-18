@@ -1,0 +1,33 @@
+{
+  "short_name": "DEMO Woodstack",
+  "name": "DEMO Woodstack",
+  "description": "Gestion des stocks",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#157246",
+  "background_color": "#0F9D58",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "maskable_icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
